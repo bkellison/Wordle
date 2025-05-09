@@ -28,7 +28,7 @@ Wordle challenges players to guess a random 5-letter word in six attempts or few
 
 ## Screenshot
 
-<img src="wordle.png" alt="Wordle Game Screenshot" width="450" />
+<img src="Wordle.png" alt="Wordle Game Screenshot" width="450" />
 
 ## Author
 
