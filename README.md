@@ -37,4 +37,3 @@ Blake Kellison
 ## Acknowledgments
 
 - Created as a project for Introduction to Software Design
-- Inspired by the original Wordle game by Josh Wardle
